@@ -1,0 +1,7 @@
+[package]
+name = "evan-zh"
+version = "1.0.0"
+entrypoint = "evan-zh.typ"
+authors = ["Evan Chen <evan@evanchen.cc>; zh adaptation"]
+license = "MIT"
+description = "Chinese adaptation of Evan template for Typst."

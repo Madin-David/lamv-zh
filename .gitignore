@@ -1,0 +1,21 @@
+# The compiled PDF is distributed through GitHub Releases rather than git:
+# a 32 MB binary in the history would be re-stored on every rebuild.
+# Use tools/release.sh to publish a new build.
+*.pdf
+!src/figures/*.svg
+
+# Scratch files left by tools/build_figures.sh
+*.buildlog
+
+# Asymptote / TeX intermediates
+*.aux
+*.tex
+*.pre
+*.out
+
+# Editor / OS noise
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini

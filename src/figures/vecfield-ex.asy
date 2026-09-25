@@ -1,0 +1,7 @@
+// --- CJK preamble (zh build) ---
+usepackage("xeCJK");
+texpreamble("\setCJKmainfont{SimSun}");
+import vecfield_base;
+
+pair F1(pair P) { return (P.x, P.y); }
+add(shift(0,0)*vf("$\mathbf{F}(x,y) = \begin{pmatrix} x \\ y \end{pmatrix}$", F1));
