@@ -4,10 +4,12 @@ MIT 18.02《Linear Algebra and Multivariable Calculus》的中文译本。
 
 > 原著：**Linear Algebra and Multivariable Calculus** — Notes from MIT's 18.02 course in fall 2024
 > 作者：**Evan Chen**
+> **原著仓库：<https://github.com/vEnhance/1802>**
 > 原书下载：<https://web.evanchen.cc/textbooks/lamv.pdf>
 > 原书许可：**CC BY-NC-SA 4.0**
 
-本仓库是原书的中文翻译（改编作品），依据原书许可协议以**相同方式**（CC BY-NC-SA 4.0）发布。
+本仓库是原书的中文翻译（改编作品），从**上述原著仓库**的 Typst 源码翻译而来，
+依据原书许可协议以**相同方式**（CC BY-NC-SA 4.0）发布。
 
 ---
 
@@ -106,7 +108,10 @@ LICENSE                  CC BY-NC-SA 4.0
 
 ## 致谢
 
-感谢 Evan Chen 撰写并开放这本书。原书内容精彩、讲解透彻，
-中文翻译过程中最大的工作量在于忠实地保留其数学内容与行文风格。
+感谢 Evan Chen 撰写并开放这本书。英文原著与 Typst 源码见
+[原著仓库 vEnhance/1802](https://github.com/vEnhance/1802)，
+也可直接下载[原书 PDF](https://web.evanchen.cc/textbooks/lamv.pdf)。
+
+原书内容精彩、讲解透彻，中文翻译过程中最大的工作量在于忠实地保留其数学内容与行文风格。
 
 如发现翻译错误或排版问题，欢迎提 issue 或 PR。
