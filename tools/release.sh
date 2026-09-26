@@ -17,7 +17,11 @@ PDF_LOCAL="线性代数与多元微积分-中文版.pdf"
 # Release assets get an ASCII name: a non-ASCII name in the upload URL is
 # mangled (the Chinese characters are dropped), and percent-encoded download
 # links are awkward to share.
-PDF_ASSET="lamv-zh-$TAG.pdf"
+#
+# The name carries no version on purpose, so the README can point at
+#   .../releases/latest/download/lamv-zh.pdf
+# and keep working across releases.
+PDF_ASSET="lamv-zh.pdf"
 
 command -v typst >/dev/null || { echo "找不到 typst，请先安装：https://typst.app"; exit 1; }
 command -v gh    >/dev/null || { echo "找不到 gh，请先安装 GitHub CLI：https://cli.github.com"; exit 1; }

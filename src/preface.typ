@@ -418,3 +418,16 @@ Poonen 总体来说是一位非常出色的数学论述写作者，
 - 本书中的大部分图是用
   #link("https://asymptote.sourceforge.io")[Asymptote] 手工绘制的。
   （我想很多数学家都用 TikZ，但我现在更习惯 Asymptote。）
+
+== [TEXT] 中文译本
+
+本书是 Evan Chen 所著
+#link("https://web.evanchen.cc/textbooks/lamv.pdf")[*Linear Algebra and Multivariable Calculus*]
+（MIT 18.02 课程讲义，2024 年秋季）的简体中文译本。
+英文原版可从上方的链接下载，本译本的源码与勘误见
+#url("https://github.com/Madin-David/lamv-zh")。
+
+原著采用 CC BY-NC-SA 4.0 许可协议，本译本以相同协议发布。
+书中的数学内容与原书逐字符一致，未作改动；
+正文译为中文，图表内的英文标签也一并汉化。
+如需核对原始表述，建议对照英文原版阅读。

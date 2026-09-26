@@ -15,7 +15,7 @@ MIT 18.02《Linear Algebra and Multivariable Calculus》的中文译本。
 
 编译好的 PDF 见 **[Releases](../../releases)** 页面（446 页，约 31 MB）：
 
-**<https://github.com/Madin-David/lamv-zh/releases/latest/download/lamv-zh-v1.0.pdf>**
+**<https://github.com/Madin-David/lamv-zh/releases/latest/download/lamv-zh.pdf>**
 
 ## 改动说明
 
